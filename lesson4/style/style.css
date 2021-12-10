@@ -1,0 +1,220 @@
+.img_1{
+    position: absolute;
+    width: 131px;
+    height: 72px;
+    left: 81px;
+    top: 17px;s
+}
+.polosa_1{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 239px;
+    top: 31px;
+    background: #E2E2E2;
+}
+.polosa_2{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 335px;
+    top: 31px;
+    background: #E2E2E2;
+}
+.polosa_3{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 446px;
+    top: 31px;
+    background: #E2E2E2;
+}
+.polosa_4{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 582px;
+    top: 31px;
+    background: #E2E2E2;
+}
+.polosa_5{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 807px;
+    top: 31px;
+    background: #E2E2E2;
+}
+.header_main{
+    
+}
+.UA{
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 270px;
+    top: 28px;
+    text-align: center;
+    font-family: Suisse Int'
+    l Trial;
+}
+.RUS{
+    position: absolute;
+    width: 24px;
+    height: 21px;
+    left: 260px;
+    top: 51px;
+    text-align: center;
+    color: white;
+    background-color: #32CD32;
+    width: 40px;
+    height: 20px;
+    font-family: Suisse Int'
+    l Trial;
+}
+.capital{
+    position: relative;
+    bottom: 26px;
+}
+.USD{
+    position: absolute;
+    width: 75px;
+    height: 19px;
+    left: 346px;
+    top: 31px;
+    font-family: Suisse Int'
+    l Trial;
+}
+.EUR{
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 346px;
+    top: 54px;
+    font-family: Suisse Int'
+    l Trial;
+}
+.cena{
+    position: relative;
+    bottom: 29px;
+}
+.blocks_header{
+    display: flex;
+}
+.maistra{
+    width: 300px;
+    height: 55px;
+    background-color: #DCDCDC;
+    position: absolute;
+    
+    left: 843px;
+    top: 23px;
+}
+.typu{
+    width: 300px;
+    height: 55px;
+    background-color: #DCDCDC;
+    margin-left: 10px;
+    position: absolute;
+    left: 1153px;
+    top: 23px;
+}
+.tupu_text,
+.maistra_text{
+    margin-left: 28px;
+}
+.small_block_header_typu{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    right: 0;
+    bottom: 0px;
+    background-color: #00FF7F;
+}
+.small_block_header_maistra{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    right: 0;
+    bottom: 0px;
+    background-color: #CD5C5C;
+}
+.svg{
+    position: absolute;
+    left: 16px;
+    top: 16px;
+}
+.polosa_100{
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+}
+.block_up{
+    width: 100%;
+    height: 250px;
+    background: #F8F8F8;
+    position:absolute;
+    top: 300px;
+    display: flex;
+    justify-content: center;
+}
+.flex{
+    display: flex;
+}
+.knopka{
+    width: 200px;
+    height: 50px;
+    background: #BDBDBD;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+a{
+    list-style-type: none;
+    text-decoration: none;      
+}
+.h5{
+    color: white;
+    
+    
+}
+.knopka_2{
+    width: 160px;
+    height: 50px;
+    border:1px solid #BDBDBD;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    margin-left: 10px;
+    
+}
+.h55{
+    color: #696969;
+    
+    
+}
+.knopka_2:hover,
+.knopka:hover{
+    background-color: #D3D3D3;
+}
+.png_hand1{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 884px;
+    top: 697px;
+}
+.png_hand2{
+    position: absolute;
+    left: 34.51%;
+    right: 17.08%;
+    top: 0%;
+    bottom: 55.56%;
+}
+.png_hand3{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 51.85%;
+    bottom: 0%;
+}
